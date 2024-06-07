@@ -1,0 +1,8 @@
+﻿  Kaynak.cpp
+C:\Users\umuta\source\repos\proje futbol düzeltmeli\Kaynak.cpp(185,28): warning C4101: 'a': yerel değişken başvurusu kaldırıldı
+C:\Users\umuta\source\repos\proje futbol düzeltmeli\Kaynak.cpp(183,15): warning C4101: 'k': yerel değişken başvurusu kaldırıldı
+C:\Users\umuta\source\repos\proje futbol düzeltmeli\Kaynak.cpp(185,35): warning C4101: 'b': yerel değişken başvurusu kaldırıldı
+C:\Users\umuta\source\repos\proje futbol düzeltmeli\Kaynak.cpp(184,69): warning C4101: 'secimmaçişlemleri2': yerel değişken başvurusu kaldırıldı
+C:\Users\umuta\source\repos\proje futbol düzeltmeli\Kaynak.cpp(181,9): warning C4101: 'takımnoal': yerel değişken başvurusu kaldırıldı
+C:\Users\umuta\source\repos\proje futbol düzeltmeli\Kaynak.cpp(184,91): warning C4101: 'secimmaçişlemleri3': yerel değişken başvurusu kaldırıldı
+  proje futbol düzeltmeli.vcxproj -> C:\Users\umuta\source\repos\proje futbol düzeltmeli\x64\Debug\proje futbol düzeltmeli.exe
